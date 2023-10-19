@@ -7,24 +7,28 @@ export const projectData = [
         id: 0,
         name: 'MeetMate',
         state: '프로젝트',
-        svg: MeetMataSvg
+        svg: MeetMataSvg,
+        type: 'Web'
     },
     {
         id: 1,
         name: 'Resistance Girls',
         state: '프로젝트',
-        svg: ResistanceSvg
+        svg: ResistanceSvg,
+        type: 'Web'
     },
     {
         id: 2,
         name: 'MOVI',
         state: '프로젝트',
-        svg: MOVISvg
+        svg: MOVISvg,
+        type: 'App'
     },
     {
         id: 3,
         name: 'ZeroUNI',
         state: '프로젝트-진행중',
-        svg: ZeroUNISvg
+        svg: ZeroUNISvg,
+        type: 'App'
     },
 ]
