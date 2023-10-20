@@ -27,11 +27,11 @@ function Info() {
                 <ProfileInfoContainer>
                     <FlexDiv gap='10px'>
                         <ProfileInfoText fontFamily={'NanumB'} color='white'>2022.01.01 멋쟁이사자처럼 대학 10기</ProfileInfoText>
-                        <ProfileInfoText fontFamily={'NanumB'} color='#FFAEAE'>2022.12.31</ProfileInfoText>
+                        <ProfileInfoText fontFamily={'NanumB'} color='#FFAEAE'>종료: 2022.12.31</ProfileInfoText>
                     </FlexDiv>
                     <FlexDiv gap='10px'>
                         <ProfileInfoText fontFamily={'NanumB'} color='white'>2023.8 GDSC.KW</ProfileInfoText>
-                        <ProfileInfoText fontFamily={'NanumB'} color='#FFAEAE'>2024.7</ProfileInfoText>
+                        <ProfileInfoText fontFamily={'NanumB'} color='#FFAEAE'>종료: 2024.7</ProfileInfoText>
                     </FlexDiv>
                 </ProfileInfoContainer>
             </AboutMeDiv>
